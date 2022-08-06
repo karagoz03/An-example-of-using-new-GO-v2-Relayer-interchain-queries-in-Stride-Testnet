@@ -1,0 +1,1 @@
+# An-example-of-using-new-GO-v2-Relayer-interchain-queries-in-Stride-Testnet
