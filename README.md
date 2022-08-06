@@ -101,4 +101,4 @@ After that you can check you transaction in the explorer
 ![image](https://user-images.githubusercontent.com/38834586/183267561-7bf34c69-7eb8-4f39-b737-c2a4a8794bcc.png)
 https://poolparty.stride.zone/STRIDE/tx/405CEA3A01798D456E1A7D8B2D431E1325366846E6D7004A2B58F0AA70497550
 
-##Special thanks to kjnodes#8455 for his awesome guides and helpfulness
+## Special thanks to kjnodes#8455 for his awesome guides and helpfulness
