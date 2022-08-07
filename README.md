@@ -14,7 +14,7 @@ mv interchain-queries /usr/local/bin/icq
 
 `echo "$(curl -s ifconfig.me)$(grep -A 3 "[rpc]" ~/.gaia/config/config.toml | egrep -o ":[0-9]+")"` in gaia
 
-`echo "$(curl -s ifconfig.me)$(grep -A 6 "\[grpc\]" ~/.stride/config/app.toml | egrep -o ":[0-9]+")"`
+`echo "$(curl -s ifconfig.me)$(grep -A 6 "\[grpc\]" ~/.gaia/config/app.toml | egrep -o ":[0-9]+")"`
 
 
 ## 2. Make home dir for icq and create configurations file
