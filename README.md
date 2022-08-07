@@ -6,7 +6,7 @@ cd interchain-queries
 go build
 mv interchain-queries /usr/local/bin/icq
 ```
-##To learn your rpc and grpc, run:
+## To learn rpc and grpc, run:
 
 `echo "$(curl -s ifconfig.me)$(grep -A 3 "[rpc]" ~/.stride/config/config.toml | egrep -o ":[0-9]+")"` in stride,
 
